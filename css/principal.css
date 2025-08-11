@@ -259,59 +259,6 @@ nav ul li a:hover {
 
 
 
-/*telefono */
-
-/* ...todo tu CSS actual... */
-
-/* Última regla que ya tenés */
-nav ul li a:hover {
-  transform: scale(1.1);
-  color: #ff004f;
-}
-
-/* 🔽 Agregás esto al final */
-@media screen and (max-width: 768px) {
-  main {
-    flex-direction: column;
-  }
-
-  section {
-    width: 100%;
-    margin: 0;
-  }
-
-  aside {
-    width: 100%;
-    margin: 0;
-    border-left: none;
-    border-top: 2px solid #ccc;
-    padding: 20px;
-  }
-
-  .nuevoingreso {
-    width: 100%;
-    margin: 10px auto;
-  }
-
-  .nuevoingresoletra {
-    margin-top: 50px;
-    font-size: 24px;
-  }
-
-  .articulo {
-    width: 90%;
-  }
-
-  .col {
-    width: 100%;
-  }
-
-  footer {
-    height: auto;
-    padding: 20px;
-  }
-}
-
 
 
 
